@@ -51,7 +51,7 @@ To view the portfolio, simply open the `index.html` file in a web browser.
 
 1. Clone this repository to your local machine.
   ```bash
-  git clone https://github.com/your-username/portfolio.git
+  git clone https://github.com/dkasun2001/assessment_1_design_portfolio.git
   ```
    
 2. Navigate to the project directory.
